@@ -2,6 +2,9 @@
 ## Contributors
 Hui Kong & Yifei Shang
 
+## Deploy link
+https://frontend-final-69a3.onrender.com
+
 ## Bonus Points
 Password Encryption
 
